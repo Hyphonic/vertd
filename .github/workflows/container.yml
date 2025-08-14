@@ -32,4 +32,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/vert-sh/vertd:latest
+          tags: ghcr.io/vHyphonic/vertd:latest
